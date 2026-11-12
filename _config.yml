@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "NYC-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Pengyu Zhao"
+title                    : "Pengyu Zhaoasfsa"
 title_separator          : "-"
-name                     : &name "Pengyu Zhao"
-description              : &description "Pengyu Zhao"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Pengyu Zhaoasfsaf"
+description              : &description "Pengyu Zhaodsda"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Git-pengyu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
