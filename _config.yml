@@ -61,7 +61,6 @@ author:
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
-  google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
@@ -76,7 +75,6 @@ author:
   twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
-  wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
