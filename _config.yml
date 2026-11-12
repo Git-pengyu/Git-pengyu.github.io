@@ -24,9 +24,9 @@ repository               : "git-pengyu/git-pengyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Pengyu Zhaonuiaohuiashufih"
+  name             : "Pengyu Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Electrical Engineering/Data science"
+  bio              : "Electrical Engineering/Data Science"
   location         : "NYC"
   employer         : "Elecnor"
   uri              : # URL
